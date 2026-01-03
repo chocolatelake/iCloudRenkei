@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f6f803d87b83865a",
+        "id": "4f34efbc7a99359f",
         "type": "tabs",
         "children": [
           {
-            "id": "c8041ae699ce4a8e",
+            "id": "5d7ae3ff3a3d750a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obstain_document/未来の話/どのAI使おうかな.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "どのAI使おうかな"
-            }
-          },
-          {
-            "id": "38d768e04b4b53e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIでコーディングするぞ/_old/どのAI使おうかな2.md",
-                "mode": "preview",
+                "file": "作ったもの/スケジュールの答え合わせ/仕様書_ver1.1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "どのAI使おうかな2"
-            }
-          },
-          {
-            "id": "8b838f46ba1839c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIでコーディングするぞ/どのAI使おうかな3.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "どのAI使おうかな3"
-            }
-          },
-          {
-            "id": "822dd75eb5ec9246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ガジェット/マウス.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "マウス"
-            }
-          },
-          {
-            "id": "227ba210fba5aae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ガジェット/マウス2.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "マウス2"
-            }
-          },
-          {
-            "id": "c0560137a767128f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "マウス3.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "マウス3"
-            }
-          },
-          {
-            "id": "fdbf29d540fd5833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "マウス4.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "マウス4"
-            }
-          },
-          {
-            "id": "a0b8e828926af990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "マウス5.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "マウス5"
+              "title": "仕様書_ver1.1"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ガジェット/マウス2.md",
+            "file": "作ったもの/スケジュールの答え合わせ/仕様書_ver1.1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -267,43 +168,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "a0b8e828926af990",
+  "active": "5d7ae3ff3a3d750a",
   "lastOpenFiles": [
+    "作ったもの/スケジュールの答え合わせ/仕様書_ver1.md",
+    "作ったもの/スケジュールの答え合わせ/仕様書_ver1.1.md",
+    "作ったもの/スケジュールの答え合わせ/入力フォーマット.md",
+    "メモ/メモの中のメモ.md",
+    "作ったもの/スケジュールの答え合わせ",
+    "ガジェット/開発環境/miniPC.md",
+    "AIでコーディングするぞ/_old/どのAI使おうかな2.md",
+    "AIでコーディングするぞ/どのAI使おうかな3.md",
+    "ガジェット/開発環境/LinuxPC.md",
     "マウス4.md",
     "マウス5.md",
     "マウス3.md",
     "ガジェット/マウス2.md",
     "ガジェット/マウス.md",
-    "AIでコーディングするぞ/どのAI使おうかな3.md",
     "メモ/Macmini 買うぞ.md",
     "obstain_document",
     "ガジェット/北斗.md",
     "ガジェット/楓.md",
     "ガジェット",
-    "AIでコーディングするぞ/_old/どのAI使おうかな2.md",
     "メモ",
     "AIでコーディングするぞ/_old/どのAI使おうかな.md",
     "AIでコーディングするぞ/chatGPT導入手順.md",
     "AIでコーディングするぞ/_old",
     "AIでコーディングするぞ",
     "メモ/買うかも.md",
-    "メモ/メモの中のメモ.md",
     "メモ/PCの環境どうしようかな.md",
     "_old",
     "obstain_document/作ったもの/TToDo/drive-download-20251229T054238Z-3-001/TToDo_ver4.0.docx",
     "obstain_document/作ったもの/TToDo/drive-download-20251229T054238Z-3-001/TToDo_ver2.0.docx",
     "obstain_document/作ったもの/TToDo/drive-download-20251229T054238Z-3-001/TToDo_ver3.0(1).docx",
-    "obstain_document/作ったもの/TToDo/drive-download-20251229T054238Z-3-001/TTodo_ver3.0.docx",
     "作ったもの/TToDo/TToDo仕様書_20251229.md",
     "作ったもの/スマホとPCの連携/手順書_20251229.md",
     "作ったもの/スマホからSwitch/スマホからswitch仕様書_20251229.md",
     "作ったもの/TToDo/TToDo仕様書_20251229.md",
     "作ったもの/スマホとPCの連携/手順書_20251229.md",
-    "作ったもの/スマホからSwitch/スマホからswitch仕様書_20251229.md",
-    "作ったもの/スマホとPCの連携/手順書_202512.md",
-    "作ったもの/スマホとPCの連携/手順書.md",
-    "作ったもの/スマホとPCの連携/無題のファイル.md",
-    "作ったもの/スマホからSwitch/スマホからswitch.md",
-    "作ったもの/TToDo/TToDo.md"
+    "作ったもの/スマホからSwitch/スマホからswitch仕様書_20251229.md"
   ]
 }
