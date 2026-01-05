@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "作ったもの/スケジュールの答え合わせ/仕様書_ver1.1.md",
+                "file": "メモ/メモの中のメモ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "仕様書_ver1.1"
+              "title": "メモの中のメモ"
+            }
+          },
+          {
+            "id": "ed1a875a9ff7f476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "メモ/買うかも.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "買うかも"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "作ったもの/スケジュールの答え合わせ/仕様書_ver1.1.md",
+            "file": "メモ/買うかも.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,13 +183,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "5d7ae3ff3a3d750a",
+  "active": "ed1a875a9ff7f476",
   "lastOpenFiles": [
-    "作ったもの/スケジュールの答え合わせ/仕様書_ver1.md",
-    "作ったもの/スケジュールの答え合わせ/仕様書_ver1.1.md",
-    "作ったもの/スケジュールの答え合わせ/入力フォーマット.md",
+    "手を動かすよ/Twitterのスクショから元ツイートを探すアプリ/仕様書.md",
     "メモ/メモの中のメモ.md",
-    "作ったもの/スケジュールの答え合わせ",
+    "手を動かすよ/Twitterのスクショから元ツイートを探すアプリ",
+    "手を動かすよ/競馬/競馬.md",
+    "手を動かすよ/競馬",
+    "手を動かすよ/エミュレータ/手順書.md",
+    "手を動かすよ/エミュレータ",
+    "メモ/買うかも.md",
+    "ガジェット/PCの環境どうしようかな.md",
+    "手を動かすよ/GooglePhoto無限アップロード編/手順書_ver1.0.md",
+    "手を動かすよ/GooglePhoto無限アップロード編",
+    "ガジェット/北斗.md",
+    "手を動かすよ/スケジュールの答え合わせ/仕様書_ver1.1.md",
+    "手を動かすよ/スケジュールの答え合わせ/仕様書_ver1.md",
+    "手を動かすよ/スケジュールの答え合わせ/入力フォーマット.md",
+    "手を動かすよ/スケジュールの答え合わせ",
     "ガジェット/開発環境/miniPC.md",
     "AIでコーディングするぞ/_old/どのAI使おうかな2.md",
     "AIでコーディングするぞ/どのAI使おうかな3.md",
@@ -186,7 +212,6 @@
     "ガジェット/マウス.md",
     "メモ/Macmini 買うぞ.md",
     "obstain_document",
-    "ガジェット/北斗.md",
     "ガジェット/楓.md",
     "ガジェット",
     "メモ",
@@ -194,17 +219,7 @@
     "AIでコーディングするぞ/chatGPT導入手順.md",
     "AIでコーディングするぞ/_old",
     "AIでコーディングするぞ",
-    "メモ/買うかも.md",
     "メモ/PCの環境どうしようかな.md",
-    "_old",
-    "obstain_document/作ったもの/TToDo/drive-download-20251229T054238Z-3-001/TToDo_ver4.0.docx",
-    "obstain_document/作ったもの/TToDo/drive-download-20251229T054238Z-3-001/TToDo_ver2.0.docx",
-    "obstain_document/作ったもの/TToDo/drive-download-20251229T054238Z-3-001/TToDo_ver3.0(1).docx",
-    "作ったもの/TToDo/TToDo仕様書_20251229.md",
-    "作ったもの/スマホとPCの連携/手順書_20251229.md",
-    "作ったもの/スマホからSwitch/スマホからswitch仕様書_20251229.md",
-    "作ったもの/TToDo/TToDo仕様書_20251229.md",
-    "作ったもの/スマホとPCの連携/手順書_20251229.md",
-    "作ったもの/スマホからSwitch/スマホからswitch仕様書_20251229.md"
+    "手を動かすよ/TToDo/TToDo仕様書_20251229.md"
   ]
 }
