@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "メモ/メモの中のメモ.md",
+                "file": "メモ/_old/メモ1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "メモの中のメモ"
+              "title": "メモ1"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "メモ/買うかも.md",
+                "file": "メモ/メモ2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "買うかも"
+              "title": "メモ2"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "メモ/買うかも.md",
+            "file": "メモ/メモ2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,14 +185,20 @@
   },
   "active": "ed1a875a9ff7f476",
   "lastOpenFiles": [
+    "メモ/買うかも.md",
+    "メモ/_old/メモ1.md",
+    "メモ/メモ2.md",
+    "メモ/_old",
+    "手を動かすよ/スマホからSwitch/_old/実行方法.md",
+    "手を動かすよ/スマホからSwitch/_old/スマホからswitch仕様書_20251229.md",
+    "手を動かすよ/スマホからSwitch/_old",
+    "手を動かすよ/スマホからSwitch/更新方法.md",
     "手を動かすよ/Twitterのスクショから元ツイートを探すアプリ/仕様書.md",
-    "メモ/メモの中のメモ.md",
     "手を動かすよ/Twitterのスクショから元ツイートを探すアプリ",
     "手を動かすよ/競馬/競馬.md",
     "手を動かすよ/競馬",
     "手を動かすよ/エミュレータ/手順書.md",
     "手を動かすよ/エミュレータ",
-    "メモ/買うかも.md",
     "ガジェット/PCの環境どうしようかな.md",
     "手を動かすよ/GooglePhoto無限アップロード編/手順書_ver1.0.md",
     "手を動かすよ/GooglePhoto無限アップロード編",
@@ -212,14 +218,7 @@
     "ガジェット/マウス.md",
     "メモ/Macmini 買うぞ.md",
     "obstain_document",
-    "ガジェット/楓.md",
     "ガジェット",
-    "メモ",
-    "AIでコーディングするぞ/_old/どのAI使おうかな.md",
-    "AIでコーディングするぞ/chatGPT導入手順.md",
-    "AIでコーディングするぞ/_old",
-    "AIでコーディングするぞ",
-    "メモ/PCの環境どうしようかな.md",
-    "手を動かすよ/TToDo/TToDo仕様書_20251229.md"
+    "メモ"
   ]
 }
