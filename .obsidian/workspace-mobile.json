@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "手を動かすよ/Gemini自動化/仮想ディスプレイ.md",
-                "mode": "source",
+                "file": "ガジェット/北斗_20260107.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "仮想ディスプレイ"
+              "title": "北斗_20260107"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "メモ/メモ2.md",
+            "file": "ガジェット/北斗_20260107.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,10 +185,20 @@
   },
   "active": "ed1a875a9ff7f476",
   "lastOpenFiles": [
-    "手を動かすよ/Gemini自動化/仕様書ver1.0.md",
-    "手を動かすよ/Gemini自動化/仮想ディスプレイ.md",
-    "手を動かすよ/スマホからSwitch/更新方法_ver1.0.md",
+    "ガジェット/北斗_20260107.md",
+    "ガジェット/北斗_20260107.md",
+    "ガジェット/作ったもの.md",
     "メモ/メモ2.md",
+    "ガジェット/北斗.md",
+    "メモ/なにこれ.md",
+    "手を動かすよ/Gemini自動化/仕様書_ver2.1.md",
+    "手を動かすよ/Gemini自動化/_old",
+    "手を動かすよ/Gemini自動化/_old/仕様書ver2.0.md",
+    "手を動かすよ/Gemini自動化/_old/仕様書ver1.0.md",
+    "ガジェット/開発環境/miniPC.md",
+    "ガジェット/PCの環境どうしようかな.md",
+    "手を動かすよ/Gemini自動化/_old/仮想ディスプレイ.md",
+    "手を動かすよ/スマホからSwitch/更新方法_ver1.0.md",
     "手を動かすよ/Gemini自動化",
     "メモ/買うかも.md",
     "メモ/_old/メモ1.md",
@@ -202,24 +212,14 @@
     "手を動かすよ/競馬",
     "手を動かすよ/エミュレータ/手順書_ver1.0.md",
     "手を動かすよ/エミュレータ",
-    "ガジェット/PCの環境どうしようかな.md",
     "手を動かすよ/GooglePhoto無限アップロード編/手順書ver1.0.md",
     "手を動かすよ/GooglePhoto無限アップロード編",
-    "ガジェット/北斗.md",
     "手を動かすよ/スケジュールの答え合わせ/仕様書_ver1.1.md",
     "手を動かすよ/スケジュールの答え合わせ/仕様書_ver1.md",
     "手を動かすよ/スケジュールの答え合わせ/入力フォーマット.md",
     "手を動かすよ/スケジュールの答え合わせ",
-    "ガジェット/開発環境/miniPC.md",
     "AIでコーディングするぞ/_old/どのAI使おうかな2.md",
     "AIでコーディングするぞ/どのAI使おうかな3.md",
-    "ガジェット/開発環境/LinuxPC.md",
-    "マウス4.md",
-    "マウス5.md",
-    "マウス3.md",
-    "ガジェット/マウス2.md",
-    "ガジェット/マウス.md",
-    "obstain_document",
-    "ガジェット"
+    "obstain_document"
   ]
 }
